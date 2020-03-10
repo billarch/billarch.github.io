@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+A Developer always want to learn new things!
